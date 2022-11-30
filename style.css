@@ -108,6 +108,25 @@ body {
 
 }
 
+.projects-box {
+
+    width: 50%;
+    background-color: #af5dff;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 30px;
+
+}
+
+.img {
+
+    scale: 0.7;
+    margin-right: 77.5%;
+
+}
+
 .logo {
 
     position: relative;
